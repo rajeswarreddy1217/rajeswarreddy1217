@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate tech enthusiast currently pursuing my B.Tech under the R20 regulation at JNTUA. I have a strong interest in **cybersecurity, troubleshooting, and IT support**, and I'm currently expanding my knowledge through the **Google IT Support Professional Certificate** program.
 
 ## 🔹 About Me
-- 🎓 **B.Tech Final Year ECE Student** | JNTUA (R20 Regulation)
+- 🎓 **B.Tech Final Year ECE Student** | JNTUA
 - 🛠 **Cybersecurity & IT Support Enthusiast**
 - 🖥 **Passionate about problem-solving & tech troubleshooting**
 
